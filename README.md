@@ -1,2 +1,2 @@
 # Capstone-Project-
-This is the salesdata project 
+This is the sales data, customer data project 
